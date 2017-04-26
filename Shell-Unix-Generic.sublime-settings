@@ -49,6 +49,7 @@
 		".zpreztorc",
 		".xsessionrc",
 		".wgetrc",
+        ".vimrc",
 		"symlink",
 		"zshrc",
 		"zshenv",
